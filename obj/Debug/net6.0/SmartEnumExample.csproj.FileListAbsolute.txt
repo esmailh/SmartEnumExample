@@ -1,0 +1,17 @@
+E:\test\SmartEnumExample\SmartEnumExample\bin\Debug\net6.0\SmartEnumExample.exe
+E:\test\SmartEnumExample\SmartEnumExample\bin\Debug\net6.0\SmartEnumExample.deps.json
+E:\test\SmartEnumExample\SmartEnumExample\bin\Debug\net6.0\SmartEnumExample.runtimeconfig.json
+E:\test\SmartEnumExample\SmartEnumExample\bin\Debug\net6.0\SmartEnumExample.dll
+E:\test\SmartEnumExample\SmartEnumExample\bin\Debug\net6.0\ref\SmartEnumExample.dll
+E:\test\SmartEnumExample\SmartEnumExample\bin\Debug\net6.0\SmartEnumExample.pdb
+E:\test\SmartEnumExample\SmartEnumExample\bin\Debug\net6.0\Ardalis.SmartEnum.dll
+E:\test\SmartEnumExample\SmartEnumExample\obj\Debug\net6.0\SmartEnumExample.csproj.AssemblyReference.cache
+E:\test\SmartEnumExample\SmartEnumExample\obj\Debug\net6.0\SmartEnumExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\test\SmartEnumExample\SmartEnumExample\obj\Debug\net6.0\SmartEnumExample.AssemblyInfoInputs.cache
+E:\test\SmartEnumExample\SmartEnumExample\obj\Debug\net6.0\SmartEnumExample.AssemblyInfo.cs
+E:\test\SmartEnumExample\SmartEnumExample\obj\Debug\net6.0\SmartEnumExample.csproj.CoreCompileInputs.cache
+E:\test\SmartEnumExample\SmartEnumExample\obj\Debug\net6.0\SmartEnumExample.csproj.CopyComplete
+E:\test\SmartEnumExample\SmartEnumExample\obj\Debug\net6.0\SmartEnumExample.dll
+E:\test\SmartEnumExample\SmartEnumExample\obj\Debug\net6.0\ref\SmartEnumExample.dll
+E:\test\SmartEnumExample\SmartEnumExample\obj\Debug\net6.0\SmartEnumExample.pdb
+E:\test\SmartEnumExample\SmartEnumExample\obj\Debug\net6.0\SmartEnumExample.genruntimeconfig.cache

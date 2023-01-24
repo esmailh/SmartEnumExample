@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sh614soYK4Oh4HAAHTaQxQGKYuYpR2akeIVcfHKn29y31VXsCdtAZ94mp0sWxDfVO0cqA/IGv4e6kTn5i3bjEg==",
+  "success": true,
+  "projectFilePath": "E:\\test\\SmartEnumExample\\SmartEnumExample\\SmartEnumExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Esmaeil\\.nuget\\packages\\ardalis.smartenum\\2.1.0\\ardalis.smartenum.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
